@@ -1,13 +1,13 @@
 ## User Experience Design
 
 ## Prototype Link
-
+https://projects.invisionapp.com/d/main#/projects
 
 ## App Map
 ![alt text](https://github.com/software-students-fall2021/user-experience-design-farhan-nur-isfar/blob/main/ux-design/app-map.png?raw=true)
 
 ## Landing Page
-![alt text](https://github.com/software-students-fall2021/user-experience-design-farhan-nur-isfar/blob/main/ux-design/wireframes/landing.png?raw=true)
+![alt text](https://github.com/software-students-fall2021/user-experience-design-farhan-nur-isfar/blob/main/ux-design/wireframes/landing.png?raw=true){ width=50% }
 
 ## Login
 ![alt text](https://github.com/software-students-fall2021/user-experience-design-farhan-nur-isfar/blob/main/ux-design/wireframes/login.png?raw=true)

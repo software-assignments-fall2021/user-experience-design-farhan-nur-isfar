@@ -22,12 +22,9 @@ Replace the contents of this file with the completed assignments, as described i
 ## Hamburger Menu
 ![alt text](https://github.com/software-students-fall2021/user-experience-design-farhan-nur-isfar/blob/main/ux-design/wireframes/sliding-menu.png?raw=true)
 ## All- Events
-This screen has a upcoming events, with a button on top that switches to “Pending Events” page
-Button at the bottom to switch to Chats page
+This screen has a upcoming events, with a button at the bottom to switch to Chats page
 ![alt text](https://github.com/software-students-fall2021/user-experience-design-farhan-nur-isfar/blob/main/ux-design/wireframes/all-events.png?raw=true)
 ## Pending Events
-This screen has a pending events, with a button on top that switches to “UAll Events” page
-Button at the bottom to switch to Chats page
 ![alt text](https://github.com/software-students-fall2021/user-experience-design-farhan-nur-isfar/blob/main/ux-design/wireframes/pending-events.jpg?raw=true)
 
 ![alt text](https://github.com/software-students-fall2021/user-experience-design-farhan-nur-isfar/blob/main/ux-design/wireframes/group-chat-list.png?raw=true)
